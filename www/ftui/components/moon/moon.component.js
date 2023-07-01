@@ -6,7 +6,7 @@
 *
 * https://github.com/knowthelist/ftui
 * Moon Component by Andreas Fohl <andreas@fohl.net>
-* https://github.com/Sturi2011/ftui/tree/master/www/ftui/components/moon
+* https://github.com/Sturi2011/ftui/tree/addons/www/ftui/components/moon
 */
 
 import { FtuiElement } from '../element.component.js';
