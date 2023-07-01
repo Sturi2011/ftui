@@ -107,7 +107,6 @@ export class FtuiMoon extends FtuiElement {
     this.elementMoonCircle.style.setProperty('--moon-color',this.color);
   }
   setOpacity() {
-	alert(this.opacity);
     this.elementMoonEarth.style.setProperty('fill-opacity', this.opacity/100);
   }
 
