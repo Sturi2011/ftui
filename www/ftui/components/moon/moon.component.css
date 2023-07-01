@@ -1,0 +1,26 @@
+:host {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: calc(100% - 3.5em);
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+  fill:var(--grid-background-color, #333333);
+}
+.moon .mooncircle{
+  fill:var(--moon-color, #e3ddb1);
+}
+
+.moon .shadows{
+  visibility: hidden;
+}
+
+.moon.hasshadows .shadows{
+  visibility: visible;
+}
+
+.moon{
+}
