@@ -98,7 +98,7 @@ export class FtuiMoon extends FtuiElement {
         this.setColor();
         break;
 	  case 'opacity':
-	    this.opacity();
+	    this.setOpacity();
 		break;
 	}
   }
