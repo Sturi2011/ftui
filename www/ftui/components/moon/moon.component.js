@@ -10,7 +10,6 @@
 */
 
 import { FtuiElement } from '../element.component.js';
-import { getStylePropertyValue} from '../../modules/ftui/ftui.helper.js';
 export class FtuiMoon extends FtuiElement {
 
   constructor(properties) {
